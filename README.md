@@ -23,7 +23,7 @@
 
 ---
 
-### 📈 GitHub Stats (optional)
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pratik9145&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
