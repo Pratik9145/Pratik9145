@@ -4,7 +4,7 @@
 💻 I have a strong foundation in **Java**, **JavaScript**, and working with **Databases**.  
 🌱 Currently focusing on building full-stack applications using the **MERN Stack**.  
 📍 Based in Talegaon Dabhade, India.  
-📫 Reach me at: [pratikex.email.com](mailto:pratikex.email.com)
+📫 Reach me at: [chourepratik456@gmail.com](mailto:chourepratik456@gmail.com)
 
 ---
 
